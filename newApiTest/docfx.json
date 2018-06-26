@@ -1,5 +1,11 @@
 {
   "build": {
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {},
+    "fileMetadata": {},
+    "template": [],
+    "dest": "newApiTestDocset",
     "content": [
       {
         "files": [
@@ -26,12 +32,6 @@
           "**/includes/**"
         ]
       }
-    ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [],
-    "dest": "newApiTestDocset"
+    ]
   }
 }
